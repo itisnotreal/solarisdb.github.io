@@ -17,7 +17,7 @@ export const ClientReview: FC<{ className?: string; style?: CSSProperties }> = (
       <Author>
         <Avatar src={avatarSrc} alt="Avatar" width={64} height={64} />
         <Name>Bulat Khaibullin</Name>
-        <Position>Software Engineer, Acquire</Position>
+        <Position>Senior Software Engineer, Acquire</Position>
       </Author>
     </Container>
   );
